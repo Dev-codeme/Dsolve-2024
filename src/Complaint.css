@@ -1,0 +1,32 @@
+/* Complaints.css */
+.complaints-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .complaints-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .complaints-item h3 {
+    margin-top: 0;
+  }
+  
+  .vote-buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .vote-buttons button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .vote-buttons button:hover {
+    text-decoration: underline;
+  }
+  
