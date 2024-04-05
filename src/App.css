@@ -20,3 +20,73 @@
   color: white;
 }
 
+html {
+  font-size: 18px;
+}
+
+body {
+  padding: none;
+  margin: 0;
+  background-color: #ffffff;
+}
+
+.opening-title {
+  font-family: "Bebas Neue", sans-serif;
+  /* font-weight: 400; */
+  font-style: normal;
+  font-size: 16.67rem;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column-reverse;
+  margin: 0rem 0rem 2rem 0rem;
+  padding-bottom: 0rem;
+}
+
+.tag-line {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3.83rem;
+  flex-direction: column;
+  margin: -7rem 0rem 1.2rem 0rem;
+
+}
+
+.button {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  /* left: 33.25rem;
+  right: 33.25rem; */
+  text-align: left;
+  justify-content: center;
+  align-items: center;
+  
+  /* margin: 0 0 0 6rem; */
+}
+
+.open-button{
+  width: 19rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 1.5rem;
+  background-color: #9d9d9d;
+  border-radius: 5px;
+  height: 5rem;
+}
+
+.button:hover .open-button{
+  background-color: #000000;
+  border-radius: 30px;
+  color: white;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+  transform: translateY(1px); /* Slight downward movement on hover */
+  transition: all 0.15s ease-in-out;
+  cursor: pointer;
+}
+
