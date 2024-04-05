@@ -4,15 +4,17 @@
 
 
 ## Team Name
-Name  
+Name  Kuttusans
 
 # Team Member
-Member 1 Github Link
+Member 1 [Github Link](https://github.com/Dev-codeme)
 
-MEmber 2 Github Link
+MEmber 2 [Github Link](https://github.com/Arjun-kannan)
 
 ## Idea
-Breif Idea in two three sentences 
+CET complaint registration app
+A platform where one can submit complaints and suggestions regarding their class, their department or the entire college as a whole. 
+Students can view the respective complaint/suggestion submitted by others wherein they can upvote or downvote the suggestion. This would eventually help to convert this app into a platform where we would be able to view the suggestions and complaints of public interest sorted based on the number of votes.
 
 ## Features 
 1. 
